@@ -1,0 +1,2 @@
+This library is downloaded from the guardian api documentation website.
+It is modified but not originally created by me.
